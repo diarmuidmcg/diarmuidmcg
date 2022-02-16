@@ -1,6 +1,6 @@
 ### hello hello
 
-I am Diarmuid (Deer-mid), a Irish-American from Boston currently studying in Ireland at Trinity College Dublin. 
+I am Diarmuid (Deer-mid), an Irish-American from Boston currently studying in Ireland at Trinity College Dublin. 
 
 - 🔭 I’m currently working as a freelance Front-end Web Developer & App Developer. 
   At the moment, I'm doing Vue.js web work building out new features for Refunk Upcyclying, a Dublin based startup that wants to connect upcyclers (artisans who breathe new life into old furniture) with people with old furniture. This project has given me great exposure to the back-end side of things, working directly with TypeScript, TypeORM, & Postgres to name a few. 
