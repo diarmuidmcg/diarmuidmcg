@@ -1,9 +1,6 @@
-### Hi there 👋
+### hello hello
 
-<!--
-**diarmuidmcg/diarmuidmcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Diarmuid (Deer-mid), a Irish-American from Boston currently studying in Ireland at Trinity College Dublin. 
 
 - 🔭 I’m currently working as a freelance Front-end Web Developer & App Developer. 
   At the moment, I'm doing Vue.js web work building out new features for Refunk Upcyclying, a Dublin based startup that wants to connect upcyclers (artisans who breathe new life into old furniture) with people with old furniture. This project has given me great exposure to the back-end side of things, working directly with TypeScript, TypeORM, & Postgres to name a few. 
@@ -19,5 +16,13 @@ Both the iOS & Flutter applications supported NFC Reading & writing, RESTful API
 - 💬 Ask me about creating iOS App Clips & using NFC for both iOS & Android.
 
 - 📫 How to reach me: email me at diarmuidmcgonagle@gmail.com 
+
+- 😈 Fun Fact -> I've previously taught myself French & am currently learning Italian as I aim to be a digital nomad. 
+
+<!--
+**diarmuidmcg/diarmuidmcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
 
 -->
