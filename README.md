@@ -25,6 +25,10 @@ Both the iOS & Flutter applications supported NFC Reading & writing, RESTful API
 
 - 😈 Fun Fact -> I've previously taught myself French & am currently learning Italian as I aim to be a digital nomad. 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=diarmuidmcg&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diarmuidmcg&langs_count=5&theme=tokyonight)]()
+
+
 <!--
 **diarmuidmcg/diarmuidmcg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
