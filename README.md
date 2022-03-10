@@ -7,6 +7,8 @@ I am Diarmuid (Deer-mid), an Irish-American from Boston currently studying in Ir
 
   At the moment, I'm doing Vue.js web work building out new features for Refunk Upcyclying, a Dublin based startup that wants to connect upcyclers (artisans who breathe new life into old furniture) with people with old furniture. This project has given me great exposure to the back-end side of things, working directly with TypeScript, TypeORM, & Postgres to name a few. 
   
+  I'm concurrently building a React client app for Receipt Relay, a Galway based startup that grants small businessess the opportunity to provide e-receipts & provides insights on their customers. I'm building the client-facing portal that will be the vehicle for these insights.
+  
   I'm also creating a React-native mobile app for Unipeer, another Dublin based startup that aims to create an online community for college societies. This project is part of my Trinity College Dublin Software Engineering course & I'm working with 5 other students. 
 
 - 🔭 I previously was cofounder & CEO of a startup Fonz Music.
