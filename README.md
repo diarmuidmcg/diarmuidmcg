@@ -19,7 +19,7 @@ Both the iOS & Flutter applications supported NFC Reading & writing, RESTful API
 
   After this experience, I learned (the hard way) the importance of creating Unit-tests, mapping out projects, & syncing multiple codebases. 
 
-- 🌱 I’m currently learning about FIDO & hardware security keys.
+- 🌱 I’m currently learning React, React-Native, & the back-end.
 
 - 💬 Ask me about creating iOS App Clips & using NFC for both iOS & Android.
 
