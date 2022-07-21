@@ -23,7 +23,7 @@ Both the iOS & Flutter applications supported NFC Reading & writing, RESTful API
 
 - 💬 Ask me about creating iOS App Clips & using NFC for both iOS & Android.
 
-- 📫 How to reach me: email me at diarmuidmcgonagle@gmail.com 
+- 📫 How to reach me: email me at diarmuiddevs@proton.me
 
 - 😈 Fun Fact -> I've previously taught myself French & am currently learning Italian as I aim to be a digital nomad. 
 
