@@ -4,7 +4,7 @@ I am Diarmuid (Deer-mid), an Irish-American from Boston currently studying in Ir
 
 - 🔭 I'm currently exploring new technologies & new opportunities
 
-  I am working on JarRing, a Kotlin Multiplatform Mobile App that leverages NFC to make it easier to manage my jars (of coffee, tea, couscous, etc). Each jar lid has an NFC sticker -> when tapped the app shows useful information such as how long the product has been there, ingridients, caffeination, etc.
+  I am working on [JarRing](https://github.com/diarmuidmcg/hereSince), a Kotlin Multiplatform Mobile App that leverages NFC to make it easier to manage my jars (of coffee, tea, couscous, etc). Each jar lid has an NFC sticker -> when tapped the app shows useful information such as how long the product has been there, ingridients, caffeination, etc.
 I am using a MongoDB Atlas database & the Realm SDK to store & update the data as well as handle user authentication. 
 
   I am looking for remote opportunites starting May 2023 & can be in person in October 2023 (willing to relocate to anywhere but Dublin). 
@@ -20,12 +20,12 @@ I am using a MongoDB Atlas database & the Realm SDK to store & update the data a
 - 🔭 I previously was cofounder & CEO of a startup Fonz Music.
 
 
-  Fonz Music allowed Guests to make song requests to their Host's Spotify account using an NFC-enabled coaster, just like a jukebox. During the 18 months I was at the helm, I learned Front-end Web development in Vue.js, created an iOS App (& App Clip) in SwiftUI, & built a cross-platform Flutter application. 
+  [Fonz Music](https://github.com/Fonz-Music) allowed Guests to make song requests to their Host's Spotify account using an NFC-enabled coaster, just like a jukebox. During the 18 months I was at the helm, I learned Front-end Web development in Vue.js, created an iOS App (& App Clip) in SwiftUI, & built a cross-platform Flutter application. 
 Both the iOS & Flutter applications supported NFC Reading & writing, RESTful API calls, pagination, user auth. Our team of 4 made UX/UI & scalability our top priorities. 
 
   After this experience, I learned (the hard way) the importance of creating Unit-tests, mapping out projects, & syncing multiple codebases. 
 
-- 🌱 I’m currently learning React, React-Native, & the back-end.
+- 🌱 I’m currently learning Kotlin Multiplatform, MongoDB Atlas, & Arduino.
 
 - 💬 Ask me about creating iOS App Clips & using NFC for both iOS & Android.
 
