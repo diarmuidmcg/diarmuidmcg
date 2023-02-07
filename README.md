@@ -2,14 +2,20 @@
 
 I am Diarmuid (Deer-mid), an Irish-American from Boston currently studying in Ireland at Trinity College Dublin. 
 
-- 🔭 I’m currently working as a freelance Full-stack Web Developer & App Developer. 
+- 🔭 I'm currently exploring new technologies & new opportunities
 
+  I am working on JarRing, a Kotlin Multiplatform Mobile App that leverages NFC to make it easier to manage my jars (of coffee, tea, couscous, etc). Each jar lid has an NFC sticker -> when tapped the app shows useful information such as how long the product has been there, ingridients, caffeination, etc.
+I am using a MongoDB Atlas database & the Realm SDK to store & update the data as well as handle user authentication. 
 
-  At the moment, I'm doing Vue.js web work building out new features for Refunk Upcyclying, a Dublin based startup that wants to connect upcyclers (artisans who breathe new life into old furniture) with people with old furniture. This project has given me great exposure to the back-end side of things, working directly with TypeScript, TypeORM, & Postgres to name a few. 
+  I am looking for remote opportunites starting May 2023 & can be in person in October 2023 (willing to relocate to anywhere but Dublin). 
+
+- 🔭 I have worked as a freelance Full-stack Web Developer & App Developer. 
+
+  I worked on Vue.js web work & Nest.js backend work building out new features for Refunk Upcyclying, a Dublin based startup that wants to connect upcyclers (artisans who breathe new life into old furniture) with people with old furniture. This project has gave me great exposure to the back-end side of things, working directly with TypeScript, TypeORM, & Postgres to name a few. It also cemented my front-end Vue.js skills.
   
-  I'm concurrently building a React client app for Receipt Relay, a Galway based startup that grants small businessess the opportunity to provide e-receipts & provides insights on their customers. I'm building the client-facing portal that will be the vehicle for these insights.
+  I concurrently built a React client app for Receipt Relay, a Galway based startup that grants small businessess the opportunity to provide e-receipts & provides insights on their customers. I built a client-facing portal for providing insights.
   
-  I'm also creating a React-native mobile app for Unipeer, another Dublin based startup that aims to create an online community for college societies. This project is part of my Trinity College Dublin Software Engineering course & I'm working with 5 other students. 
+  I also created a React-native mobile app for Unipeer, another Dublin based startup that aims to create an online community for college societies. This project was part of my Trinity College Dublin Software Engineering course & I worked with 5 other students. 
 
 - 🔭 I previously was cofounder & CEO of a startup Fonz Music.
 
