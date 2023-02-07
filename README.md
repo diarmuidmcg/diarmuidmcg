@@ -7,7 +7,9 @@ I am Diarmuid (Deer-mid), an Irish-American from Boston currently studying in Ir
   I am working on [JarRing](https://github.com/diarmuidmcg/hereSince), a Kotlin Multiplatform Mobile App that leverages NFC to make it easier to manage my jars (of coffee, tea, couscous, etc). Each jar lid has an NFC sticker -> when tapped the app shows useful information such as how long the product has been there, ingridients, caffeination, etc.
 I am using a MongoDB Atlas database & the Realm SDK to store & update the data as well as handle user authentication. 
 
-  I am looking for remote opportunites starting May 2023 & can be in person in October 2023 (willing to relocate to anywhere but Dublin). 
+  I am looking for remote opportunites starting May 2023 & can be in person in October 2023 (willing to relocate to anywhere in Europe but Dublin). 
+
+  Here is my [Resume](https://rxresu.me/diarmuiddevs/ireland)
 
 - 🔭 I have worked as a freelance Full-stack Web Developer & App Developer. 
 
